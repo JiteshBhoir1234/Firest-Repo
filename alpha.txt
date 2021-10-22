@@ -2,3 +2,6 @@ beta gama dalta
 KIEFGUI
 BASE
 dATA
+Tara 
+para 
+Abc
